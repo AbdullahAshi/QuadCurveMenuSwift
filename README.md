@@ -1,1 +1,1 @@
-ReadMe file under construction. For now, refer to the objective-c version (where this repo forked from) https://github.com/burtlo/QuadCurveMenu
+Source code is complete and there is no further work need to be done. Only the ReadMe file is under construction. For now, refer to the objective-c version (where this repo forked from) https://github.com/burtlo/QuadCurveMenu
